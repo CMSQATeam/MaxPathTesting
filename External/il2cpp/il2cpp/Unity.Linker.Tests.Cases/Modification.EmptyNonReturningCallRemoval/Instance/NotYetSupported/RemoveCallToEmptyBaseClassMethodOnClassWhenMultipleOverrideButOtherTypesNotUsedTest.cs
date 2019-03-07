@@ -2,7 +2,7 @@
 
 namespace ConsoleApp2
 {
-    class RemoveCallToEmptyBaseClassMethodOnClassWhenMultipleOverrideButOtherTypesNotUsed
+    class RemoveCallToEmptyBaseClassMethodOnClassWhenMultipleOverrideButOtherTypesNotUsedTest
     {
         static void Main(string[] args)
         {
